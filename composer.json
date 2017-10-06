@@ -1,0 +1,7 @@
+{
+  "name": "linvanda/packagistest",
+  "description": "test php composer packagist",
+  "require": {
+    "php": "^5.4 || ^7.0"
+  }
+}
