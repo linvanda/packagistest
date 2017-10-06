@@ -1,6 +1,8 @@
 {
   "name": "linvanda/packagistest",
   "description": "test php composer packagist",
+  "keywords": ["test", "php test"],
+  "homepage": "https://github.com/linvanda/packagistest",
   "require": {
     "php": "^5.4 || ^7.0"
   }
