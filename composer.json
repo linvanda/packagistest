@@ -1,5 +1,5 @@
 {
-  "name": "linvanda/packagistest",
+  "name": "linvanda/packagistest2",
   "description": "test php composer packagist",
   "require": {
     "php": "^5.4 || ^7.0"
